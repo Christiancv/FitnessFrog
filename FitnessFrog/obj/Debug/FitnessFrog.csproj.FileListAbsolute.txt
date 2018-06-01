@@ -1,0 +1,7 @@
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.exe.config
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.exe
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.pdb
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.csprojAssemblyReference.cache
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.csproj.CoreCompileInputs.cache
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.exe
+C:\Users\ccami\Documents\GitHub\C#\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.pdb
